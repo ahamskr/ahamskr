@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm Sudhanshu Kumar, a python learner🚀 from India, currently. Beside's programming, I enjoy cooking food and traveling.
+Hi, I'm Sudhanshu Kumar, a python learner🚀 from India, currently. Beside's programming, I enjoy listening songs and travelling.
 
   
 **Talking about my Personal Stuffs:**
