@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hey 👋, I'm Rahul!<p align="left">
+### Hey 👋, I'm Sudhanshu!<p align="left">
 
 <br/>
 
@@ -36,14 +36,14 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm Rahul Kumar Ranjan, a Full Stack Developer 🚀 from India, currently. Beside's programming, I enjoy cooking food and traveling.
+Hi, I'm Sudhanshu Kumar, a python learner🚀 from India, currently. Beside's programming, I enjoy cooking food and traveling.
 
   
 **Talking about my Personal Stuffs:**
 
-- 🌱 I’m currently learning Machine Learning;
+- 🌱 I’m currently learning C programming;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
-- 📫 How to reach me: kjrahul21@gmail.com;
+- 📫 How to reach me: sudhanshusharmaskr@gmail.com;
 
 **Languages and Tools:**
 
