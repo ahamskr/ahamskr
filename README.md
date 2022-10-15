@@ -19,20 +19,20 @@ Here are some ideas to get you started:
 
 <br/>
 
-<a href="https://twitter.com/thinkranjan">
-  <img align="left" alt="Aman Jhurani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/">
+  <img align="left" alt="Sudhanshu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/rahulkranjan/">
-  <img align="left" alt="Rahul's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/">
+  <img align="left" alt="Sudhanshu's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/thinkranjan/">
-  <img align="left" alt="Rahul's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/">
+  <img align="left" alt="Sudhanshu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="www.hackerrank.com/rahulkranjan">
-  <img align="left" alt="Rahul's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+<a href="www.hackerrank.com/">
+  <img align="left" alt="Sudhanshu's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=rahulkranjan.rahulkranjan) <img src="https://komarev.com/ghpvc/?username=rahulkranjan" alt="rahulkranjan" /> </p>
+![](https://visitor-badge.glitch.me/badge?page_id=ahamskr.ahamskr) <img src="https://komarev.com/ghpvc/?username=ahamskr" alt="ahamskr" /> </p>
 
 <br />
 
