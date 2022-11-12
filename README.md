@@ -36,12 +36,12 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm Sudhanshu Kumar, a python learner🚀 from India, currently. Beside's programming, I enjoy listening songs and travelling.
+Hi, I'm Sudhanshu Kumar, a Java learner🚀 from India, currently. Beside's programming, I enjoy listening songs and movies.
 
   
 **Talking about my Personal Stuffs:**
 
-- 🌱 I’m currently learning C programming;
+- 🌱 I’m currently learning django rest framework;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 📫 How to reach me: sudhanshusharmaskr@gmail.com;
 
