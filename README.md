@@ -20,16 +20,13 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="https://leetcode.com/">
-  <img align="left" alt="Sudhanshu's LeetCode" width="22px" src="https://leetcode.com/static/images/LeetCode_Sharing.png" />
+  <img align="left" alt="Sudhanshu's LeetCode" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" />
 </a>
 <a href="https://www.linkedin.com/in/">
-  <img align="left" alt="Sudhanshu's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Sudhanshu's Linkdein" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzwGQfdzQc999Mw_TimytEdnzE_V16N5MreUEjhHt00WLb0EMWFb1SC38FSnpmbgTkb6o&usqp=CAU" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/">
-  <img align="left" alt="Sudhanshu's Geeksforgeeks" width="22px" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" />
-</a>
-<a href="www.hackerrank.com/">
-  <img align="left" alt="Sudhanshu's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img align="left" alt="Sudhanshu's Geeksforgeeks" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfilEUFGxB7bxgZ___GmpRlaGW4rFuOB5j1ZlvaMw&s" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ahamskr.ahamskr) <img src="https://komarev.com/ghpvc/?username=ahamskr" alt="ahamskr" /> </p>
@@ -48,9 +45,9 @@ Hi, I'm Sudhanshu Kumar, a Java backend developer🚀 from India, currently. Bes
 **Languages and Tools:**
 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/springboot/springboot.png"></code>
+- 🌱 Java
+- 🌱 Python
+- 🌱 Spring Boot
+- 🌱 Django REST Framework
 
 
