@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/ahamskr">
   <img align="left" alt="Sudhanshu's LeetCode" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" />
 </a>
 <a href="https://www.linkedin.com/in/">
