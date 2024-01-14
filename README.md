@@ -48,6 +48,5 @@ Hi, I'm Sudhanshu Kumar, a Java backend developer🚀 from India, currently. Bes
 - 🌱 Java
 - 🌱 Python
 - 🌱 Spring Boot
-- 🌱 Django REST Framework
 
 
